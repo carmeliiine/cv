@@ -17,7 +17,7 @@
           <td width="25%">Nama Lengkap</td>
           <td width="1%">:</td>
           <td>Benedicta Christina Carmeline</td>
-    <td rowspan="5" width="350px" align="left"><img src="me with rini sugianto.png" alt="Me with Rini Sugianto" title="Me with Rini Sugianto" height="200px" width="150px"></td>
+    <td rowspan="5" width="350px" align="left"><img src="DSC_1589.jpg" alt="Benedicta Christina C." title="benedicta Christina C." height="200px" width="150px"></td>
         </tr>
         <tr>
           <td>Tempat, Tanggal Lahir</td>
