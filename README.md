@@ -63,18 +63,18 @@
         </tr>
       </tbody>
     </table>
-  <h2>Pengalaman Kerja</h2>
+  <h2>Skill</h2>
     <table width="800px">
      <tbody>
         <tr>
-          <td width="25%">February 2013 - Sekarang</td>
+          <td width="25%">Hard Skill</td>
           <td width="1%">:</td>
-          <td>Designer Generalist, Gunadarma BBSDM Team</td>
+          <td>Ms. Office, Photoshop, Canva</td>
         </tr>
         <tr>
-          <td>November 2011 - Sekarang</td>
+          <td>Soft Skill</td>
           <td width="1%">:</td>
-          <td>Founder & Designer Generalist, BAD Pixel Studio</td>
+          <td>Kreatif, Inisiatif, Kerja sama dan Kolaborasi</td>
         </tr>
         <tr>
           <td>Juni 2010 - Maret 2012</td>
@@ -83,7 +83,5 @@
         </tr>
       </tbody>
      </table>
-<br><br>
-  <a href="portofolio.html" title="Portofolio Saya"><b>Portofolio Saya</b></a>
 </body>
 </html>
