@@ -77,11 +77,18 @@
           <td>Kreatif, Inisiatif, Kerja sama dan Kolaborasi</td>
         </tr>
         <tr>
-          <td>Juni 2010 - Maret 2012</td>
+          <td>language</td>
           <td width="1%">:</td>
-          <td>Owner, Scooby Ice Cream</td>
+          <td>Bahasa, English/td>
         </tr>
       </tbody>
      </table>
+  <h2>Pengalaman</h2>
+  <p>Ketua Pelaksana Edufair SMA</p>
+  <p>Pelatihan Creative Writing Rumah Perubahan by Rhenald Kasali</p>
+  <p>Ketua Divisi Kreatif dan Dokumentasi Digitalks 3.0</p>
+  <p>Ketua Divisi Dekorasi Business Fair 2019</p>
+  <p>Staff Creative Media and Informastion Hima Bisnis Digital 2020</p>
+  <p>Staff Publication, Design, and Documentation Paskah KMK 2020</p>
 </body>
 </html>
